@@ -10,6 +10,8 @@ settings:
     harmony_enabled: true
   versions:
     - version-number: "9.17.1"
+      url: /ontap-select-9171  
+    - version-number: "9.18.1"
       url: /ontap-select
     - version-number: "9.16.1"
       url: /ontap-select-9161
