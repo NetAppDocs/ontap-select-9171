@@ -56,10 +56,10 @@ Cluster expansion and contraction is supported for the following KVM hypervisor 
 
 * Red Hat Enterprise Linux (RHEL) 64-bit 10.0, 9.6, 9.5, 9.4, 9.3, 9.2, 9.1, 9.0, 8.8, 8.7, and 8.6
 * Rocky Linux 10.0, 9.6, 9.5, 9.4, 9.3, 9.2, 9.1, 9.0, 8.9, 8.8, 8.7, and 8.6
---
 
 include::./_include/rehl-and-rockylinux10-rl-support.adoc[]
 
+--
 =====
 
 == Expand the cluster
@@ -163,7 +163,8 @@ It can take up to 30 minutes for the cluster to be contracted.
 
 . Refer to the *Events* tab for periodic updates on the operation's progress. The page is automatically refreshed at regular intervals.
 
-
+// 2025 DEC 9. ONTAPDOC-3461
+// 2025 DEC 9. ONTAPDOC-3461
 // 2025 Sep 02, ONTAPDOC-9.17.1GA
 // 2025 AUG 19, ONTAPDOC-3002
 // 2025 JUN 20, ONTAPDOC-2886

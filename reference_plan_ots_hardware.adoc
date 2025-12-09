@@ -132,6 +132,7 @@ Refer to link:concept_lic_platforms.html[Understand the platform license offerin
 [NOTE]
 There are additional disk requirements based on the platform license. See link:reference_plan_ots_storage.html[Storage and RAID] for more information.
 
+// 2025 DEC 9. ONTAPDOC-3461
 // 2024-NOV-18, ONTAPDOC-2550
 // 2023-APR-12, ONTAPDOC-979
 // 2023-SEP-25, ONTAPDOC-1204
