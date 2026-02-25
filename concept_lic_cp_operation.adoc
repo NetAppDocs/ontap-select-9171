@@ -44,7 +44,7 @@ You can determine the License Lock ID for your Deploy instance using the web use
 * Getting Started page
 This page is displayed when you first sign in to Deploy. You can also display the page by clicking the drop down box at the top right of the page and selecting Getting Started. The LLID is displayed in the Add Licenses section.
 * Administration
-Click the *Administration* tab a the top of the page, then click *Systems* and *Settings*.
+Click the *Administration* tab at the top of the page, then click *Systems & AutoSupport*.
 
 == Basic lease operations
 
